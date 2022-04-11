@@ -134,13 +134,6 @@ img {
    
     <div class="text"></div>
 </div>
-<div class="mySlides fade">
-  <div class="numbertext"></div>
-    <a href="https://bostonscientific.sharepoint.com/sites/WomensNetworkERG/SitePages/Women's-History-Month.aspx" target="_blank" rel="noopener noreferrer">
-         <img alt="WomensHistory" src="https://bostonscientific.sharepoint.com/sites/WomensNetworkERG/SiteAssets/SitePages/Banners/WNWomensHistMnthBanner.png" >
-   
-    <div class="text"></div>
-</div>
 
 <div class="mySlides fade">
   <div class="numbertext"></div>
@@ -176,7 +169,6 @@ img {
   <span class="dot" onclick="currentSlide(4)"></span>
   <span class="dot" onclick="currentSlide(5)"></span>
   <span class="dot" onclick="currentSlide(6)"></span>
-  <span class="dot" onclick="currentSlide(7)"></span>
 </div>
 <script>
 var slideIndex = 0;
