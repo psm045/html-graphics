@@ -113,25 +113,25 @@ img {
 <body>
 
 <div class="slideshow-container">
+
 <div class="mySlides fade">
   <div class="numbertext"></div>
     <a href="https://bostonscientific.sharepoint.com/sites/WomensNetworkERG/SitePages/About-the-Women's-Network.aspx" target="_blank" rel="noopener noreferrer">
          <img alt="Welcome" src="https://bostonscientific.sharepoint.com/sites/WomensNetworkERG/SiteAssets/SitePages/Banners/WNHomeBanner.png" >
-   
     <div class="text"></div>
 </div>
-<div class="mySlides fade">
-  <div class="numbertext"></div>
-    <a href="https://bostonscientific.sharepoint.com/sites/WomensNetworkERG/SitePages/International-Women's-Day2022.aspx" target="_blank" rel="noopener noreferrer">
-         <img alt="IntlWomensDay" src="https://bostonscientific.sharepoint.com/sites/WomensNetworkERG/SiteAssets/SitePages/Banners/WNIntlWomensDay2022Banner.png" >
-   
-    <div class="text"></div>
-</div>
+
 <div class="mySlides fade">
   <div class="numbertext"></div>
     <a href="https://bostonscientific.sharepoint.com/sites/WomensNetworkERG/SitePages/Open-Roles.aspx" target="_blank" rel="noopener noreferrer">
-         <img alt="OpenRoles" src="https://bostonscientific.sharepoint.com/sites/WomensNetworkERG/SiteAssets/SitePages/Banners/WNOpenRolesBanner.png" >
-   
+         <img alt="OpenRoles" src="https://bostonscientific.sharepoint.com/sites/WomensNetworkERG/SiteAssets/SitePages/Banners/WNOpenRolesBanner2.png" >
+    <div class="text"></div>
+</div>
+
+<div class="mySlides fade">
+  <div class="numbertext"></div>
+    <a href="https://bostonscientific.sharepoint.com/sites/WomensNetworkERG/SitePages/International-Women's-Day2022.aspx" target="_blank" rel="noopener noreferrer">
+         <img alt="IntlWomensDay" src="https://bostonscientific.sharepoint.com/sites/WomensNetworkERG/SiteAssets/SitePages/Banners/WNIntlWomensDay2022Banner.png" >   
     <div class="text"></div>
 </div>
 
@@ -145,10 +145,10 @@ img {
 <div class="mySlides fade">
   <div class="numbertext"></div>
     <a href="https://bostonscientific.sharepoint.com/sites/WomensNetworkERG/_layouts/15/news.aspx" target="_blank" rel="noopener noreferrer">
-         <img alt="News" src="https://bostonscientific.sharepoint.com/sites/WomensNetworkERG/SiteAssets/SitePages/Banners/WNNewsBanner.png" >
-   
+         <img alt="News" src="https://bostonscientific.sharepoint.com/sites/WomensNetworkERG/SiteAssets/SitePages/Banners/WNNewsBanner.png" >   
     <div class="text"></div>
 </div>
+
 <div class="mySlides fade">
   <div class="numbertext"></div>
     <a href="https://bostonscientific.sharepoint.com/sites/WomensNetworkERG/SitePages/Resources.aspx" target="_blank" rel="noopener noreferrer">
